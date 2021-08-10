@@ -1,0 +1,4 @@
+# files for git to ignore
+__pycache__/*
+pyshell_env/*
+test/
